@@ -6,7 +6,7 @@ k* {
 }
 
 section{
-    background-color: black !important;
+    background-color: black;
     background-size: cover;
     background-position: center; 
 }
