@@ -77,7 +77,7 @@ section{
     padding: 155px;
     height: 590px;
     width: 100%;   
-    background-image: url("portfolio/img/bg.png");
+    background-image: url("portfolio/img/bg.png") !important;
     background-size: cover;
     background-position: center;  
 }
