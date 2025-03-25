@@ -1,4 +1,4 @@
-k* {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,7 +6,7 @@ k* {
 }
 
 section{
-    
+    background-color: black;
     background-size: cover;
     background-position: center; 
 }
