@@ -77,9 +77,9 @@ section{
     padding: 155px;
     height: 590px;
     width: 100%;   
-    background-image: url("/storage/emulated/0/ahh portfolio/portfolio/img/bg.png");
+    background-image: url("portfolio/img/bg.png");
     background-size: cover;
-    background-position: center; 
+    background-position: center;  
 }
 
 
