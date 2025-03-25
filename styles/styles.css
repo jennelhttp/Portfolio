@@ -27,7 +27,7 @@ section{
     padding: 20px 50px;
 }
 
-/* Navbar Brand */
+/* NAVBAR */
 .navbar-brand {
     font-size: 24px;
     font-weight: bold;
@@ -54,10 +54,11 @@ section{
     color: white !important;
 }
 
-
-
 .hero {
     margin-top: 80px;
+    background-image: url("portfolio/img/bg.png");
+    background-size: cover;
+    background-position: center; 
 }
 
 .contact-btn {
@@ -69,7 +70,6 @@ section{
     margin-top: 20px;
 }
 
-/* Hero Section */
 .hero {
     display: flex;
     align-items: center;
@@ -101,8 +101,6 @@ section{
 .highlight {
     color: beige;
 }
-
-/* Image Styling */
 .hero-image {
     width: 50%;
     display: flex;
