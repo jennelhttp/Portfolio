@@ -70,13 +70,9 @@ section{
     padding: 155px;
     height: 590px;
     width: 100%;   
-    background-color: black; 
     margin-top: 80px;
 
 }
-#hero{
-    background-color: black;
-} 
 
 .hero-text {
     max-width: 50%;
