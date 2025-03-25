@@ -52,14 +52,7 @@ section{
 .custom-link.active {
     background-color: black;
     color: white !important;
-}
-
-.hero {
-    margin-top: 80px;
-    background-image: url("portfolio/img/bg.png");
-    background-size: cover;
-    background-position: center; 
-}
+} 
 
 .contact-btn {
     padding: 10px 20px;
@@ -77,9 +70,11 @@ section{
     padding: 155px;
     height: 590px;
     width: 100%;   
-    background-image: url("portfolio/img/bg.png") !important;
+    background-color: black !important;
     background-size: cover;
     background-position: center;  
+    margin-top: 80px;
+
 }
 
 
